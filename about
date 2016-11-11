@@ -1,0 +1,28 @@
+<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="about.aspx.cs" Inherits="about" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+    <div>
+   <CENTER>ABOUT US</CENTER> 
+
+    
+        <p>
+            Welcome to the climic management system. this website is maded by&nbsp; the student&quot;s of bca, this website named as CLINIC MANAGEMENT SYSTEM&nbsp; for there final year college project.</p>
+        <p>
+            website developers:
+        </p>
+        <p>
+            
+            Monu Yadav</p>
+        <p>
+            
+            Junaid Saifi</p>
+    
+    <p>
+        thanks for using our website.</p>
+    <p>
+        &nbsp;</p>
+    </div>
+</asp:Content>
+
